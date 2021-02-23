@@ -1,1 +1,2 @@
 *.pdf filter=lfs diff=lfs merge=lfs -text
+compute-dev/存储/大话存储2：存储系统架构与底层原理极限剖析.pdf filter=lfs diff=lfs merge=lfs -text
